@@ -1,0 +1,7 @@
+C:\Users\mpogorzelski\Source\Repos\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.exe.config
+C:\Users\mpogorzelski\Source\Repos\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.exe
+C:\Users\mpogorzelski\Source\Repos\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.pdb
+C:\Users\mpogorzelski\Source\Repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.csprojAssemblyReference.cache
+C:\Users\mpogorzelski\Source\Repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.csproj.CoreCompileInputs.cache
+C:\Users\mpogorzelski\Source\Repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.exe
+C:\Users\mpogorzelski\Source\Repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.pdb
