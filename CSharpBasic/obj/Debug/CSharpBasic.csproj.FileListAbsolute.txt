@@ -5,3 +5,16 @@ C:\Users\mpogorzelski\Source\Repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic
 C:\Users\mpogorzelski\Source\Repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.csproj.CoreCompileInputs.cache
 C:\Users\mpogorzelski\Source\Repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.exe
 C:\Users\mpogorzelski\Source\Repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.pdb
+D:\GIT\ExecuteAutmation\CSharpBasic\bin\Debug\CSharpBasic.exe.config
+D:\GIT\ExecuteAutmation\CSharpBasic\bin\Debug\CSharpBasic.exe
+D:\GIT\ExecuteAutmation\CSharpBasic\bin\Debug\CSharpBasic.pdb
+D:\GIT\ExecuteAutmation\CSharpBasic\obj\Debug\CSharpBasic.csprojAssemblyReference.cache
+D:\GIT\ExecuteAutmation\CSharpBasic\obj\Debug\CSharpBasic.csproj.CoreCompileInputs.cache
+D:\GIT\ExecuteAutmation\CSharpBasic\obj\Debug\CSharpBasic.exe
+D:\GIT\ExecuteAutmation\CSharpBasic\obj\Debug\CSharpBasic.pdb
+D:\GIT\ExecuteAutmation\CSharpBasic\bin\Debug\nunit.framework.dll
+D:\GIT\ExecuteAutmation\CSharpBasic\bin\Debug\WebDriver.dll
+D:\GIT\ExecuteAutmation\CSharpBasic\bin\Debug\nunit.framework.pdb
+D:\GIT\ExecuteAutmation\CSharpBasic\bin\Debug\nunit.framework.xml
+D:\GIT\ExecuteAutmation\CSharpBasic\bin\Debug\WebDriver.xml
+D:\GIT\ExecuteAutmation\CSharpBasic\obj\Debug\CSharpBasic.csproj.CopyComplete

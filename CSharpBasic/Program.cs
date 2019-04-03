@@ -21,7 +21,7 @@ namespace CSharpBasic
 
         }
 
-
+        //New method
 
 
         private static void NewMethod()
